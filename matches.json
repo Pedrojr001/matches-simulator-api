@@ -17,4 +17,40 @@
      
     }
   }
+   {
+  "descrição" : "Eliminatória Copa 2022",
+    "local" : {
+    "nome" : "Estádio Centenario",
+      "imagem" : "TODOS"
+    },
+    "mandante" : {
+    "nome" : "Uruguai",
+      "força" : 4,
+      "imagem" : "https://bandeirasnacionais.com/data/flags/normal/uy.png"
+    },
+     "visitante" : {
+    "nome" : "Brasil",
+      "força" : 5,
+      "imagem" : "https://bandeirasnacionais.com/data/flags/normal/br.png"
+     
+    }
+  }
+ {
+  "descrição" : "Eliminatória Copa 2022",
+    "local" : {
+    "nome" : "Maracanâ",
+      "imagem" : "TODOS"
+    },
+    "mandante" : {
+    "nome" : "Brasil",
+      "força" : 5,
+      "imagem" : "https://bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+     "visitante" : {
+    "nome" : "Colombia",
+      "força" : 3,
+      "imagem" : "https://bandeirasnacionais.com/data/flags/normal/co.png"
+     
+    }
+  }
 ]
