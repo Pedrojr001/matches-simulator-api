@@ -3,7 +3,7 @@
   "descrição" : "Eliminatória Copa 2022",
     "local" : {
     "nome" : "Maracanâ",
-      "imagem" : "TODOS"
+      "imagem" : "https://prefeitura.rio/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-12-at-15.11.54.jpeg"
     },
     "mandante" : {
     "nome" : "Brasil",
@@ -21,7 +21,7 @@
   "descrição" : "Eliminatória Copa 2022",
     "local" : {
     "nome" : "Estádio Centenario",
-      "imagem" : "TODOS"
+      "imagem" : "https://upload.wikimedia.org/wikipedia/commons/4/45/Estadio_Centenario_%28vista_a%C3%A9rea%29.jpg"
     },
     "mandante" : {
     "nome" : "Uruguai",
@@ -39,7 +39,7 @@
   "descrição" : "Eliminatória Copa 2022",
     "local" : {
     "nome" : "Maracanâ",
-      "imagem" : "TODOS"
+      "imagem" : "https://prefeitura.rio/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-12-at-15.11.54.jpeg"
     },
     "mandante" : {
     "nome" : "Brasil",
